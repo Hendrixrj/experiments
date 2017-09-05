@@ -1,0 +1,8 @@
+certifi==2017.7.27.1
+chardet==3.0.4
+flask-api==0.7.1
+flask-env==1.0.1
+flask==0.12.2
+idna==2.6
+requests==2.18.4
+urllib3==1.22

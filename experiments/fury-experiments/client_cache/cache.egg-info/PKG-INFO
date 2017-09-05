@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: cache
+Version: 0.1
+Summary: Client in python for Cache
+Home-page: https://github.com/axado/hadouken/fury-experiments/client_cache/cache
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: Client Python for Fury Cache
+Keywords: python,cache
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5

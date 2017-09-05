@@ -1,0 +1,13 @@
+*.pyc
+/.idea/
+/.cache/
+/.eggs/
+/dist/
+/*.egg-info/
+.coverage
+*coverage*.xml
+*junit*.xml
+.project
+.pydevproject
+*/__pycache__/*
+build/
