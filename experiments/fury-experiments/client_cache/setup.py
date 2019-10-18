@@ -22,7 +22,7 @@ setup(
     keywords=['python', 'cache'],
     install_requires=[
         'requests==2.18.4',
-        'urllib3==1.22',
+        'urllib3==1.24.2',
         'ipdb',
     ],
     dependency_links=[],
